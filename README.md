@@ -7,7 +7,7 @@ A modern React application for managing users with a beautiful UI, built with Re
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/lastbenchr/user-management-system.git
 cd user-management-system
 ```
 
